@@ -109,11 +109,23 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+Screensaver that swirls around the microbit using plot and unplot to create a flashing affect
 
 ### SS 2 
 
-_[And so on]_
+Creates a rian droplet affect using random x coordinates and led toggles going down
+
+### SS 3 
+
+A spinning affect created by 4 different pairs of paralledl led's going in four different directions
+
+### SS 4
+
+Snake affect zigzagging from one row to the other using an incrementing loop and a decrementing loop to traverse through the columns
+
+### SS 5 
+
+A pulsating spectrogram randomly triggering led's
 
 ## Demo URL
 
